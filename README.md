@@ -1,7 +1,7 @@
 # ClassCard 매크로
 ClassCard_매크로(은)는 심심함을 이유로 제작되었습니다.
 
-*How to use*
+How to use
 1. main.py 파일을 여세요. (ex. 메모장, PyCharm)
 2. line 12 의 ID 값에 본인의 클래스카드 아이디를 입력하세요.
 3. line 13 의 PW 값에 본인의 클래스카드 비밀번호를 입력하세요.
