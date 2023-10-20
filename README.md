@@ -1,7 +1,7 @@
 # ClassCard 매크로
 ClassCard_매크로(은)는 심심함을 이유로 제작되었습니다.
 
-How to use
+## How to use
 1. main.py 파일을 여세요. (ex. 메모장, PyCharm)
 2. line 12 의 ID 값에 본인의 클래스카드 아이디를 입력하세요.
 3. line 13 의 PW 값에 본인의 클래스카드 비밀번호를 입력하세요.
@@ -15,4 +15,11 @@ How to use
   ![클래스카드2](https://media.discordapp.net/attachments/830246342491111485/1164924599067218032/image.png?ex=6544fb93&is=65328693&hm=13c32a2ae50786d392923d63588f31e345811ded5062b10f30163f8e753881ab&=)
   6. [개발자 도구]에서 하이라이트 된 부분이 있습니다. 우클릭 후ㅣ복사 -> XPath 복사ㅣ를 통해 Xpath 값을 구할 수 있습니다.
   ![클래스카드3](https://media.discordapp.net/attachments/830246342491111485/1164926605022466078/image.png?ex=6544fd71&is=65328871&hm=457162cf5d4d25463a1d69b8f84a38d071838b6d8182393c2c0a0bcd513cee16&=)
+
+## ⚠ 유의사항
+```
+- 해당 단원이 2구간 이상이라면 작동하지 않습니다.
+```
+
+
   
