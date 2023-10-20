@@ -9,7 +9,7 @@ How to use
 * Xpath 값 구하는 방법
   1. https://www.classcard.net/Login 으로 이동합니다.
   2. F12 를 눌러 [개발자 도구]를 엽니다.
-  3. [검사할 페이지 요소 선택]을 클릭하세요.\n
+  3. [검사할 페이지 요소 선택]을 클릭하세요.<br/>
   ![클래스카드1](https://media.discordapp.net/attachments/830246342491111485/1164925288082309230/image.png?ex=6544fc37&is=65328737&hm=aae2168b0d77d33e70eab6691f108fa3d5a4aac18d6493d2b479220ad2e119f9&=)
   5. 매크로를 사용할 단원명을 클릭하세요.
   ![클래스카드2](https://media.discordapp.net/attachments/830246342491111485/1164924599067218032/image.png?ex=6544fb93&is=65328693&hm=13c32a2ae50786d392923d63588f31e345811ded5062b10f30163f8e753881ab&=)
